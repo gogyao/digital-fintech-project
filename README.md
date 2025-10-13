@@ -5,7 +5,7 @@
 
 Источниками данных выступают:
 
-* исторические котировки валютной пары KZT/USD, доступные на [Investing.com](https://ru.investing.com/currencies/usd-kzt-historical-data)
+* исторические котировки валютной пары KZT/USD, доступные на [сайте Национального Банка](https://www.nationalbank.kz/ru)
 
 * новостные публикации с сайта [Kapital.kz](https://kapital.kz/news)
 
